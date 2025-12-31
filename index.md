@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Fall Treats";
 ```
+- [ ] Explore different fall treats at the Fall Festival
+- [ ] Search for quick Fall Treat recipes
+- [ ] Cook up a fun and quick fall treat
